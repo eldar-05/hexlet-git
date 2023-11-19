@@ -1,1 +1,2 @@
 git awesome!
+new line
